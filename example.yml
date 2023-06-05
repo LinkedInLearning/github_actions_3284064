@@ -1,24 +1,30 @@
-name: Tests
+# Configuration de l'application web
+app:
+  name: MonApplication
+  version: 1.0.0
+  debug: true
+  timeout: 30
 
-on:
-  push:
-    branches:
-      - main
+# Configuration de la base de données
+database:
+  type: mysql
+  host: localhost
+  port: 3306
+  username: myuser
+  password: mypassword
+  database: mydatabase
 
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+# Configuration du serveur web
+server:
+  host: 0.0.0.0
+  port: 8080
+  ssl: false
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: 14.x
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run tests
-        run: npm test
+# Liste des utilisateurs autorisés
+users:
+  - name: Alice
+    age: 30
+    email: alice@example.com
+  - name: Bob
+    age: 40
+    email: bob@example.com
