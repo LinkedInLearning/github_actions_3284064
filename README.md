@@ -5,7 +5,7 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 ![Nom final de la formation][lil-thumbnail-url] 
 
 
-DESCRIPTION DE LA FORMATION
+Dans une équipe de développement logiciel, l'outil qui effectue l'intégration continue et le déploiement continu (CI/CD) est indispensable et doit être mis en place. GitHub Actions permet de réaliser des actions de testing et de déploiement complexe pour les applications. Dans ce cours, vous allez découvrir GitHub Actions afin de fiabiliser vos développements, fluidifier vos déploiements et automatiser les tâches redondantes. Julian Layen, dirigeant d'une entreprise spécialisée dans le développement d'applications métiers, vous donne les méthodes et les bonnes pratiques pour utiliser GitHub Actions.
 
 ## Instructions
 
