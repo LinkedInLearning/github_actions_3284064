@@ -30,7 +30,7 @@ La branche master correspond au code à la fin de la formation.
    - Visual Studio code ou un IDE similaire 
    - NodeJs/NPM
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. Lancer la commande : npm install et npm run dev 
+3. Lancer la commande : npm install et npm start
 
 
 ### Formateur
