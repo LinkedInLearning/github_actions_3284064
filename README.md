@@ -2,16 +2,10 @@
 
 Ce dossier Repository est lié au cours `L'essentiel de GitHub Actions`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![L'essentiel de GitHub Actions][lil-thumbnail-url] 
+![Nom final de la formation][lil-thumbnail-url] 
 
 
-Automatisez, personnalisez et exécutez vos workflows de développement logiciel directement dans votre référentiel avec GitHub Actions. Vous pouvez découvrir, créer et partager des actions pour effectuer n’importe quel travail de votre choix, y compris des tâches de CI/CD, et combiner des actions en un workflow entièrement personnalisé.
-
-Les personnes visé par cette formation, sont les développeurs/DevOps/CTO qui veulent facilité et fludifier lors processus d'intégration et de déploiement continue.
-
-Le but premier de GitHub Actions est d'automatiser les tests d'une application, vérifier la cohérence du code et de déployer si le code est jugé acceptable pour un déploiement.
-
-Nous allons parler d'intégration continue et de déploiement contiue afin d'automatiser un maximum de tâche.
+Dans une équipe de développement logiciel, l'outil qui effectue l'intégration continue et le déploiement continu (CI/CD) est indispensable et doit être mis en place. GitHub Actions permet de réaliser des actions de testing et de déploiement complexe pour les applications. Dans ce cours, vous allez découvrir GitHub Actions afin de fiabiliser vos développements, fluidifier vos déploiements et automatiser les tâches redondantes. Julian Layen, dirigeant d'une entreprise spécialisée dans le développement d'applications métiers, vous donne les méthodes et les bonnes pratiques pour utiliser GitHub Actions.
 
 ## Instructions
 
@@ -27,21 +21,20 @@ La branche master correspond au code à la fin de la formation.
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - Visual Studio code ou un IDE similaire 
-   - NodeJs/NPM
+   - [Liste des logiciels/dépendances utiles à la formation] 
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. Lancer la commande : npm install et npm run dev 
+3. [Instructions spécifiques au cours] 
 
 
 ### Formateur
 
-**Julian LAYEN** 
+**Nom du formateur** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/julian-layen).
+ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-github-actions
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQE3GA4NS_XSng/learning-public-crop_675_1200/0/1685696854098?e=2147483647&v=beta&t=B0ZnXOfVcglFBEC9x120XbCtQLS1IrITw1ixRO5vj7o
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/julian-layen
 
 [1]: # (End of FR-Instruction ###############################################################################################)
