@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f9c967f-6246-4380-9f6c-6629c2574c32" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8f9c967f-6246-4380-9f6c-6629c2574c32" name="Changes" comment="08_01_d">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="05_01_f" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -32,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "05__01__d",
     "last_opened_file_path": "/Users/julian/Documents/www/linked-in.github-action.localhost/www",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,11 +60,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685953704136</updated>
-      <workItem from="1685953705488" duration="1753000" />
+      <workItem from="1685953705488" duration="2181000" />
     </task>
+    <task id="LOCAL-00001" summary="08_01_f">
+      <created>1685955989335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685955989335</updated>
+    </task>
+    <task id="LOCAL-00002" summary="08_01_f">
+      <created>1685956050271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685956050271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="08_01_d">
+      <created>1685956156381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685956156381</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="08_01_f" />
+    <MESSAGE value="08_01_d" />
+    <option name="LAST_COMMIT_MESSAGE" value="08_01_d" />
   </component>
 </project>
