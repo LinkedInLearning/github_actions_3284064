@@ -33,8 +33,8 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-github-actions
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQE3GA4NS_XSng/learning-public-crop_675_1200/0/1685696854098?e=2147483647&v=beta&t=B0ZnXOfVcglFBEC9x120XbCtQLS1IrITw1ixRO5vj7o
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/julian-layen
 
 [1]: # (End of FR-Instruction ###############################################################################################)
